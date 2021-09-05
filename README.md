@@ -1,1 +1,1 @@
-# Prediction-of-wine-quality-Machine-Learning
+# Prediction-of-wine-quality-using-Machine-Learning
